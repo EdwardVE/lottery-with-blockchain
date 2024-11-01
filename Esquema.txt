@@ -1,0 +1,24 @@
+lottery-with-blockchain/
+│
+├── src/                     # Código fuente del proyecto
+│   ├── components/          # Componentes Web individuales
+│   │   ├── my-header.js      # Componente: Encabezado
+│   │   ├── my-footer.js      # Componente: Pie de página
+│   │   ├── my-card.js        # Componente: Tarjeta
+│   │   └── ...               # Otros componentes
+│   │
+│   ├── styles/              # Estilos globales o comunes
+│   │   └── main.css          # Archivo de estilos globales
+│   │
+│   ├── utils/               # Utilidades y funciones reutilizables
+│   │   └── helpers.js        # Funciones auxiliares
+│   │
+│   ├── app.js               # Archivo principal de la aplicación
+│   └── index.html           # Página principal del proyecto
+│
+├── dist/                    # Archivos generados para producción
+│
+├── assets/                  # Archivos estáticos como imágenes, fuentes
+│
+├── package.json             # Archivo de configuración de npm
+└── README.md                # Documentación del proyecto
